@@ -6,9 +6,6 @@ __pycache__/
 # C extensions
 *.so
 .idea
-.idea/
-*.idea
-*.idea/
 # Distribution / packaging
 .Python
 build/
@@ -17,7 +14,6 @@ dist/
 downloads/
 eggs/
 .eggs/
-.idea/
 lib/
 lib64/
 parts/
@@ -106,6 +102,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-Projects/TestPython/.idea/workspace.xml
 Projects/TestPython/.idea/workspace.xml
 Projects/TestPython/.idea/workspace.xml

@@ -7,8 +7,6 @@ __pycache__/
 *.so
 .idea
 .idea/
-*.idea
-*.idea/
 # Distribution / packaging
 .Python
 build/
@@ -17,7 +15,6 @@ dist/
 downloads/
 eggs/
 .eggs/
-.idea/
 lib/
 lib64/
 parts/
